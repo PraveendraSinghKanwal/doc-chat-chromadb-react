@@ -1,9 +1,11 @@
 env
+.env
 backendenv
 backendenvv
+uploads/
+chroma_db/
 logs
 *.log
 *.tmp
-uploads/
 
 node_modules
