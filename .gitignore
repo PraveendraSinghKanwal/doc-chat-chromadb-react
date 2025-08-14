@@ -1,0 +1,9 @@
+env
+backendenv
+backendenvv
+logs
+*.log
+*.tmp
+uploads/
+
+node_modules
